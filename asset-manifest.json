@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.ac216876.chunk.css",
-    "main.js": "./static/js/main.a217cee5.chunk.js",
-    "main.js.map": "./static/js/main.a217cee5.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.0cc93d7a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.0cc93d7a.js.map",
-    "static/js/2.47792c4a.chunk.js": "./static/js/2.47792c4a.chunk.js",
-    "static/js/2.47792c4a.chunk.js.map": "./static/js/2.47792c4a.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.4a2ef0b30c7009914e017dc16a3d7a52.js": "./precache-manifest.4a2ef0b30c7009914e017dc16a3d7a52.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.ac216876.chunk.css.map": "./static/css/main.ac216876.chunk.css.map",
-    "static/js/2.47792c4a.chunk.js.LICENSE": "./static/js/2.47792c4a.chunk.js.LICENSE"
+    "main.css": "/react_phone-catalog/static/css/main.a56db7dc.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.d936864f.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.d936864f.chunk.js.map",
+    "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0544dd7c.js",
+    "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.0544dd7c.js.map",
+    "static/js/2.ed22739e.chunk.js": "/react_phone-catalog/static/js/2.ed22739e.chunk.js",
+    "static/js/2.ed22739e.chunk.js.map": "/react_phone-catalog/static/js/2.ed22739e.chunk.js.map",
+    "index.html": "/react_phone-catalog/index.html",
+    "precache-manifest.d2a7ced0aef68388fcb13cc340504bfa.js": "/react_phone-catalog/precache-manifest.d2a7ced0aef68388fcb13cc340504bfa.js",
+    "service-worker.js": "/react_phone-catalog/service-worker.js",
+    "static/css/main.a56db7dc.chunk.css.map": "/react_phone-catalog/static/css/main.a56db7dc.chunk.css.map",
+    "static/js/2.ed22739e.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.ed22739e.chunk.js.LICENSE.txt",
+    "static/media/App1.scss": "/react_phone-catalog/static/media/Mont-Heavy.7d90a574.otf",
+    "static/media/Header.scss": "/react_phone-catalog/static/media/header__logo.d9a7f03a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cc93d7a.js",
-    "static/js/2.47792c4a.chunk.js",
-    "static/css/main.ac216876.chunk.css",
-    "static/js/main.a217cee5.chunk.js"
+    "static/js/runtime-main.0544dd7c.js",
+    "static/js/2.ed22739e.chunk.js",
+    "static/css/main.a56db7dc.chunk.css",
+    "static/js/main.d936864f.chunk.js"
   ]
 }
